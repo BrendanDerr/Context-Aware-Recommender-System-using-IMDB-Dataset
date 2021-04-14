@@ -1,4 +1,4 @@
-@authors: Brendan Derr, Cody Johnson, Luis Cueto, Bryan Mora
+@authors: Brendan Derr
 Attached is the entire java project file IMDB
 The file for execution is the CARS.java file. 
 This program takes a file as input. The file is a list of movies that the user has watched and liked.
